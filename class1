@@ -25,7 +25,7 @@ R: Is a distributed control version system use to keep a record of every action 
 
 Q: What are the most common git commands?
 R: git init . => To start a new repository on the current folder.
-R: git commit -m "put here you commit message" => To create a new commit on the current branch.
+   git commit -m "put here you commit message" => To create a new commit on the current branch.
    git checkout [file] => To restore a file to its master status.
    git checkout -b [branch_name] => To create a branch based on the current branch.
    git rebase [aginst_who_branch] => To update the current branch regarding the who_branch.
@@ -44,5 +44,6 @@ SELF WORK(Not mandatory but its a good thing to read):                          
                                                                                                   |
 1. Ruby Koans: http://rubykoans.com/                                                              |
 2. Unix Philosophy: http://homepage.cs.uri.edu/~thenry/resources/unix_art/ch01s06.html#id2873540  |
+3. Git for begginers: http://rogerdudler.github.io/git-guide/                                     |
                                                                                                   |
 ==================================================================================================
