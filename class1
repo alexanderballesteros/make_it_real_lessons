@@ -1,0 +1,38 @@
+Q: What is bash?
+R: Is the shell or interpreter for the UNIX systems.
+
+Q: What is TMUX?
+R: It's a bash utility for multiplexing a terminal.
+
+Q: What is TMATE?
+R: It's a bash utility for multiplexing a terminal and share it with someone else through SSH (Check below to find out what ssh is)
+
+Q: What are the most common bash commands?
+R: Move (mv)
+   Copy (cp)
+   Change Directory (cd)
+   Make Directory (mkdir)
+   Remove Directory (rmdir)
+   Remove a file (rm)
+   Concatenation and standard output display (cat)
+   *source: https://devdactic.com/10-basic-bash-commands/*
+
+Q: What are my text editors options?
+R: Vim, Atom, Sublime, Brackets and so on.
+
+Q: What is git?
+R: Is a distributed control version system use to keep a record of every action or modification performed on a folder and its subfolders.
+
+Q: What are the most common git commands?
+R: git init . => To start a new repository on the current folder.
+R: git commit -m "put here you commit message" => To create a new commit on the current branch.
+   git checkout [file] => To restore a file to its master status.
+   git checkout -b [branch_name] => To create a branch based on the current branch.
+   git rebase [aginst_who_branch] => To update the current branch regarding the who_branch.
+   git pull origin [target_branch] => To pull the lastest changes of a remote branch.
+
+Q: What is SSH?
+R: Secure SHell it's a protocol that provides a secure way to access a computer. In order to use it, you'll need a pair of SSH keys.
+
+Q: How can I create my SSH Keys?
+R: Please refer to => https://help.github.com/articles/connecting-to-github-with-ssh/
